@@ -26,3 +26,5 @@ use_math: true
 * Solved [Codechef - PERMUT2](https://www.codechef.com/problems/PERMUT2)
 * Solved [Codechef - FLOW017](https://www.codechef.com/problems/FLOW017)
 * Solved [Codechef - FLOW018](https://www.codechef.com/problems/FLOW018)
+* Solved [Codechef - FLOW008](https://www.codechef.com/problems/FLOW008)
+* Solved [Codechef - RECIPE](https://www.codechef.com/problems/RECIPE)
