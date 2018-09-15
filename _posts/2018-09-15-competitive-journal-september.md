@@ -23,3 +23,4 @@ use_math: true
 * Solved [Codechef - FLOW007](https://www.codechef.com/problems/FLOW007)
 * Solved [Codechef - FSQRT](https://www.codechef.com/problems/FSQRT)
 * Solved [Codechef - REMISS](https://www.codechef.com/problems/REMISS)
+* Solved [Codechef - PERMUT2](https://www.codechef.com/problems/PERMUT2)
