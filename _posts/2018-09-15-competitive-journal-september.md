@@ -28,3 +28,6 @@ use_math: true
 * Solved [Codechef - FLOW018](https://www.codechef.com/problems/FLOW018)
 * Solved [Codechef - FLOW008](https://www.codechef.com/problems/FLOW008)
 * Solved [Codechef - RECIPE](https://www.codechef.com/problems/RECIPE)
+
+#### September 16
+* Solved [Codechef - ONP](https://www.codechef.com/problems/ONP)
