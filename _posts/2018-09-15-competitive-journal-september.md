@@ -37,4 +37,5 @@ use_math: true
 * Solved [Codechef - CHOPRT](https://www.codechef.com/problems/CHOPRT)
 * Solved [Codechef - PRB01](https://www.codechef.com/problems/PRB01)
 * Solved [Codechef - COMM3](https://www.codechef.com/problems/COMM3)
-* Solved [Codecheft - FLOW010](https://www.codechef.com/problems/FLOW010)
+* Solved [Codechef - FLOW010](https://www.codechef.com/problems/FLOW010)
+* Solved [Codechef - AMR15A](https://www.codechef.com/problems/AMR15A)
