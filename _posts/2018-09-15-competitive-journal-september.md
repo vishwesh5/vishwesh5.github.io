@@ -41,3 +41,4 @@ use_math: true
 * Solved [Codechef - AMR15A](https://www.codechef.com/problems/AMR15A)
 * Solved [Codechef - SMPAIR](https://www.codechef.com/problems/SMPAIR)
 * Solved [Codechef - HEADBOB](https://www.codechef.com/problems/HEADBOB)
+* Solved [Codechef - EID](https://www.codechef.com/LTIME63B/problems/EID)
