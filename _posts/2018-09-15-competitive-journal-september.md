@@ -33,3 +33,4 @@ use_math: true
 * Solved [Codechef - ONP](https://www.codechef.com/problems/ONP)
 * Solved [Codechef - FLOW005](https://www.codechef.com/problems/FLOW005)
 * Solved [Codechef - FLOW013](https://www.codechef.com/problems/FLOW013)
+* Solved [Codechef - PALL01](https://www.codechef.com/problems/PALL01)
