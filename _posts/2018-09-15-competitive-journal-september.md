@@ -42,3 +42,4 @@ use_math: true
 * Solved [Codechef - SMPAIR](https://www.codechef.com/problems/SMPAIR)
 * Solved [Codechef - HEADBOB](https://www.codechef.com/problems/HEADBOB)
 * Solved [Codechef - EID](https://www.codechef.com/LTIME63B/problems/EID)
+* Solved [Codechef - PROBSET](https://www.codechef.com/LTIME63B/problems/PROBSET)
