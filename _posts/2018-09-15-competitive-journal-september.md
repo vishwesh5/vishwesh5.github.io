@@ -44,3 +44,5 @@ use_math: true
 * Solved [Codechef - EID](https://www.codechef.com/LTIME63B/problems/EID)
 * Solved [Codechef - PROBSET](https://www.codechef.com/LTIME63B/problems/PROBSET)
 * Solved [Codechef - FLOW009](https://www.codechef.com/problems/FLOW009)
+* Solved [Codechef - FLOW016](https://www.codechef.com/problems/FLOW016)
+* Solved [Codechef - GDOG](https://www.codechef.com/problems/GDOG)
