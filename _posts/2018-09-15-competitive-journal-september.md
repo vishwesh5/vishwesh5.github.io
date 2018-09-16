@@ -40,3 +40,4 @@ use_math: true
 * Solved [Codechef - FLOW010](https://www.codechef.com/problems/FLOW010)
 * Solved [Codechef - AMR15A](https://www.codechef.com/problems/AMR15A)
 * Solved [Codechef - SMPAIR](https://www.codechef.com/problems/SMPAIR)
+* Solved [Codechef - HEADBOB](https://www.codechef.com/problems/HEADBOB)
