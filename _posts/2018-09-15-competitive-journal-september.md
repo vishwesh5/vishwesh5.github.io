@@ -34,3 +34,4 @@ use_math: true
 * Solved [Codechef - FLOW005](https://www.codechef.com/problems/FLOW005)
 * Solved [Codechef - FLOW013](https://www.codechef.com/problems/FLOW013)
 * Solved [Codechef - PALL01](https://www.codechef.com/problems/PALL01)
+* Solved [Codechef - CHOPRT](https://www.codechef.com/problems/CHOPRT)
