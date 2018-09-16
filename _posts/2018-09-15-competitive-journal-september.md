@@ -36,3 +36,4 @@ use_math: true
 * Solved [Codechef - PALL01](https://www.codechef.com/problems/PALL01)
 * Solved [Codechef - CHOPRT](https://www.codechef.com/problems/CHOPRT)
 * Solved [Codechef - PRB01](https://www.codechef.com/problems/PRB01)
+* Solved [Codechef - COMM3](https://www.codechef.com/problems/COMM3)
