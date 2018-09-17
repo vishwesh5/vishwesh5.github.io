@@ -50,3 +50,4 @@ use_math: true
 * Solved [Codechef - HORSES](https://www.codechef.com/problems/HORSES)
 * Solved [Codechef - CLEANUP](https://www.codechef.com/problems/CLEANUP)
 * Solved [Codechef - JOHNY](https://www.codechef.com/problems/JOHNY)
+* Solved [Codechef - CONFLIP](https://www.codechef.com/problems/CONFLIP)
