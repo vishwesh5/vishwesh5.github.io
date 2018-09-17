@@ -46,3 +46,4 @@ use_math: true
 * Solved [Codechef - FLOW015](https://www.codechef.com/problems/FLOW015)
 * Solved [Codechef - TEST](https://www.codechef.com/problems/TEST)
 * Solved [Codechef - FCTRL](https://www.codechef.com/problems/FCTRL)
+* Solved [Codechef - CIELAB](https://www.codechef.com/problems/CIELAB)
