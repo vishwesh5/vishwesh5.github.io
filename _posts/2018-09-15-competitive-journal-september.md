@@ -47,3 +47,4 @@ use_math: true
 * Solved [Codechef - TEST](https://www.codechef.com/problems/TEST)
 * Solved [Codechef - FCTRL](https://www.codechef.com/problems/FCTRL)
 * Solved [Codechef - CIELAB](https://www.codechef.com/problems/CIELAB)
+* Solved [Codechef - HORSES](https://www.codechef.com/problems/HORSES)
