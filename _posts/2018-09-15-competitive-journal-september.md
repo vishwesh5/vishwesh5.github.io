@@ -48,3 +48,4 @@ use_math: true
 * Solved [Codechef - FCTRL](https://www.codechef.com/problems/FCTRL)
 * Solved [Codechef - CIELAB](https://www.codechef.com/problems/CIELAB)
 * Solved [Codechef - HORSES](https://www.codechef.com/problems/HORSES)
+* Solved [Codechef - CLEANUP](https://www.codechef.com/problems/CLEANUP)
