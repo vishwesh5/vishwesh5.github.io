@@ -49,3 +49,4 @@ use_math: true
 * Solved [Codechef - CIELAB](https://www.codechef.com/problems/CIELAB)
 * Solved [Codechef - HORSES](https://www.codechef.com/problems/HORSES)
 * Solved [Codechef - CLEANUP](https://www.codechef.com/problems/CLEANUP)
+* Solved [Codechef - JOHNY](https://www.codechef.com/problems/JOHNY)
