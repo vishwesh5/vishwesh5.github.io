@@ -7,13 +7,6 @@ keywords: "competitive programming, journal"
 use_math: true
 ---
 
-
-#### Ratings
-* Codeforces - 
-* Codechef -
-* CS Academy - 
-* AtCoder - 
-
 #### September 15
 * Solved [Codechef - FLOW002](https://www.codechef.com/problems/FLOW002)
 * Solved [Codechef - START01](https://www.codechef.com/problems/START01)
