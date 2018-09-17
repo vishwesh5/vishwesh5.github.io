@@ -45,3 +45,4 @@ use_math: true
 * Solved [Codechef - FLOW014](https://www.codechef.com/problems/FLOW014)
 * Solved [Codechef - FLOW015](https://www.codechef.com/problems/FLOW015)
 * Solved [Codechef - TEST](https://www.codechef.com/problems/TEST)
+* Solved [Codechef - FCTRL](https://www.codechef.com/problems/FCTRL)
